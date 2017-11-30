@@ -2,8 +2,9 @@ body{
     font-size: 48px;
 }
 
-header{
+h1{
     width: 50%;
     text-align: center;
+    color: red;
 }
 
